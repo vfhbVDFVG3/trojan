@@ -1,0 +1,11 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/vfhbVDFVG3/trojan"
+  dependencies_vendored = true
+
+[[analyzers]]
+name = "shell"
